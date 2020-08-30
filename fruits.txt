@@ -1,3 +1,6 @@
 apple
-orange 2
+sweet orange 
 strawberry
+banana
+water melon 
+
